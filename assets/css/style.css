@@ -1,0 +1,86 @@
+body{
+    font-family: 'Rock Salt', cursive;
+    background-image: url("../images/hogwarts.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    color: white;
+
+    
+
+}
+
+/* .container{
+    height: fit-content;
+    width: 1000px;
+    position: absolute;
+    top: 35%;
+    bottom: 35%;
+    left: 7.5%;
+    transform: translateX(-1%) translateY(-2%);
+    background: transparent;
+    padding: 20px 0 20px 0;
+    box-shadow: 0 0 8px 3px #fff;
+} */
+
+/* .title{
+    padding-top: 20px;
+    text-align: center;
+    font-size: 36px;
+    text-transform: uppercase;
+} */
+.questionandanswers{
+    padding: 20px;
+    font-size: 22px;
+    border-radius: 20px;
+    margin: 10px 0 10px 0;
+    color: green;
+}
+
+/* .choices {
+    width: 230px;
+    display: inline-block;
+    padding: 10px 0 10px 15px;
+    vertical-align: middle;
+    margin: 10px 0 10px 0;
+    color: rgba(red, green, blue, alpha);
+    margin: 10px 0 10px 10px;
+    border-radius: 20px;
+}
+
+.choices:hover {
+    background: grey;
+    color: lawngreen;
+} */
+
+/* .next-btn{
+    border: none;
+    outline:none;
+    background: transparent;
+    width: 100px;
+    height: 35px;
+    border-radius: 20px;
+    cursor: pointer;
+    float: right;
+    margin: 10px
+}
+
+.next-btn:hover{
+    background: grey;
+    color: lawngreen;
+} */
+
+/* .result{
+    height: 100px;
+    text-align: center;
+    font-size: 75px;
+}
+
+.choices input:checked .option{
+    background: grey;
+    color: lawngreen;
+}
+  */
+
+
