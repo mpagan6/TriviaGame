@@ -5,7 +5,8 @@ body{
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
-    color: white;
+    color: green;
+    font-size: 30px;
 
     
 
@@ -24,12 +25,7 @@ body{
     box-shadow: 0 0 8px 3px #fff;
 } */
 
-/* .title{
-    padding-top: 20px;
-    text-align: center;
-    font-size: 36px;
-    text-transform: uppercase;
-} */
+
 .questionandanswers{
     padding: 20px;
     font-size: 22px;
